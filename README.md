@@ -44,4 +44,4 @@ This project is ideal as a:
 - Admin panel design template
 - Real API integration demo
   
-Live demo:https://willowy-speculoos-f16676.netlify.app/
+Live demo:(https://sweet-biscuit-223f15.netlify.app/)
